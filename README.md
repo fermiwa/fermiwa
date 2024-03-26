@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii 👋
 
 - 🔭 Cursando faculdade de Engenharia de Softaware
 - 🌱 Atualmente não estou trabalhando em nenhum proeto pessoal
