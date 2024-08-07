@@ -3,7 +3,7 @@
 - 🔭 Cursando faculdade de Engenharia de Softaware
 - 🌱 Atualmente não estou trabalhando em nenhum proeto pessoal
 - 💻 Repositórios para projetos da faculdade
-- 📫 Contato: fertanaka1311@gmail.com
+- 📫 Contato: fernandatanaka13@gmail.com
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fer.tanaka/)
