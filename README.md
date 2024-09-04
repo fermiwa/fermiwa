@@ -1,7 +1,7 @@
 ### Oii 👋
 
 - 🔭 Cursando faculdade de Engenharia de Softaware
-- 🌱 Atualmente não estou trabalhando em nenhum proeto pessoal
+- 🌱 Atualmente não estou trabalhando em nenhum projeto pessoal
 - 💻 Repositórios para projetos da faculdade
 - 📫 Contato: fernandatanaka13@gmail.com
 
