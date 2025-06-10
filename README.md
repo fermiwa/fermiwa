@@ -1,12 +1,11 @@
 ### Oii 👋
 
 - 🔭 Cursando faculdade de Engenharia de Softaware
-- 🌱 Atualmente não estou trabalhando em nenhum projeto pessoal
-- 💻 Repositórios para projetos da faculdade
+- 🌱 Atualmente estudando Flask, Python, APIs
+- 💻 Repositórios para projetos pessoais e acadêmicos
 - 📫 Contato: fernandatanaka13@gmail.com
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fer.tanaka/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-tanaka-93045225a/)
 
 <!-- GithubStats -->
